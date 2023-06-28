@@ -6,6 +6,6 @@
 
 Firebase ile veritabanı baglantısı saglandi.
 
-<h2>Ekran Goruntusu</h2>
+<h2>Ekran Goruntusu </h2>
 
 ![](ekran.gif)
